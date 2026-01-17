@@ -1,7 +1,7 @@
 git config --global --replace-all user.name lrakshathabhat1
 git config --global --replace-all user.email lrakshathabhat2@gmail.com
 
-git clone https://github.com/KshamaV24/lab4.git
+git clone https://github.com/lrakshathabhat1/lab4.git
 cd lab4
 
 git pull
@@ -28,4 +28,5 @@ git commit -m "5 committed"
 
 git rebase feature
 git log --all --graph
+
 
